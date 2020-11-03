@@ -1,0 +1,128 @@
+1
+Bir	2
+İki	3
+Üç	4
+Dört	5
+Beş	6
+Altı	7
+Yedi	8
+Sekiz	9
+Dokuz	10
+On
+11
+Onbir	12
+Oniki	13
+Onüç	14
+Ondört	15
+Onbeş	16
+Onaltı	17
+Onyedi	18
+Onsekiz	19
+Ondokuz	20
+Yirmi
+21
+Yirmibir	22
+Yirmiiki	23
+Yirmiüç	24
+Yirmidört	25
+Yirmibeş	26
+Yirmialtı	27
+Yirmiyedi	28
+Yirmisekiz	29
+Yirmidokuz	30
+Otuz
+31
+Otuzbir	32
+Otuziki	33
+Otuzüç	34
+Otuzdört	35
+Otuzbeş	36
+Otuzaltı	37
+Otuzyedi	38
+Otuzsekiz	39
+Otuzdokuz	40
+Kırk
+41
+Kırkbir	42
+Kırkiki	43
+Kırküç	44
+Kırkdört	45
+Kırkbeş	46
+Kırkaltı	47
+Kırkyedi	48
+Kırksekiz	49
+Kırkdokuz	50
+Elli
+51
+Ellibir	52
+Elliiki	53
+Elliüç	54
+Ellidört	55
+Ellibeş	56
+Ellialtı	57
+Elliyedi	58
+Ellisekiz	59
+Ellidokuz	60
+Altmış
+61
+Altmışbir	62
+Altmışiki	63
+Altmışüç	64
+Altmışdört	65
+Altmışbeş	66
+Altmışaltı	67
+Altmışyedi	68
+Altmışsekiz	69
+Altmışdokuz	70
+Yetmiş
+71
+Yetmişbir	72
+Yetmişiki	73
+Yetmişüç	74
+Yetmişdört	75
+Yetmişbeş	76
+Yetmişaltı	77
+Yetmişyedi	78
+Yetmişsekiz	79
+Yetmişdokuz	80
+Seksen
+81
+Seksenbir	82
+Sekseniki	83
+Seksenüç	84
+Seksendört	85
+Seksenbeş	86
+Seksenaltı	87
+Seksenyedi	88
+Seksensekiz	89
+Seksendokuz	90
+Doksan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91
+Doksanbir	92
+Doksaniki	93
+Doksanüç	94
+Doksandört	95
+Doksanbeş	96
+Doksanaltı	97
+Doksanyedi	98
+Doksansekiz	99
+Doksandokuz	100
+Yüz
+
